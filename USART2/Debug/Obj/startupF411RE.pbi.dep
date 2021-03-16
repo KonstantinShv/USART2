@@ -1,0 +1,10 @@
+startupF411RE.pbi: \
+  C:\Users\Константин\Desktop\Lab6\startupF411RE.cpp \
+  C:\Users\Константин\Desktop\Lab6\AbstractHardware\USART\usartconfig.h \
+  C:\Users\Константин\Desktop\Lab6\AbstractHardware\USART/usart.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\cstdint \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\stdint.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\ycheck.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\yvals.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\DLib_Defaults.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\DLib_Product.h

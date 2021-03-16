@@ -1,0 +1,10 @@
+main.pbi: C:\Users\Константин\Desktop\Lab6\main.cpp \
+  C:\Users\Константин\Desktop\Lab6\AbstractHardware\Registers\STM32F411\gpioaregisters.hpp \
+  C:\Users\Константин\Desktop\Lab6\AbstractHardware\Registers\STM32F411\FieldValues\gpioafieldvalues.hpp \
+  C:\Users\Константин\Desktop\Lab6\AbstractHardware\Registers\fieldvalue.hpp \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\cstddef \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\stddef.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\ycheck.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\yvals.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\DLib_Defaults.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\DLib_Product.h
