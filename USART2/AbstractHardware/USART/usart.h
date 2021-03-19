@@ -45,6 +45,5 @@ class Usart
     TUSARTReg::CR1::RE::Disable::Set();
   }
   
-private:
-  //inline static ITransmit& transmitter = transmitter;
+
 };

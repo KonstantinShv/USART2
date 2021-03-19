@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "D:\Папка\Универ\7 семак\IAR\common\bin\cspybat" -f "C:\Users\Константин\Desktop\Lab6\settings\lab5.Debug.general.xcl" --backend -f "C:\Users\Константин\Desktop\Lab6\settings\lab5.Debug.driver.xcl" 
+& "D:\Папка\Универ\7 семак\IAR\common\bin\cspybat" -f "E:\Git\ПОИП\UART2\USART2\settings\lab5.Debug.general.xcl" --backend -f "E:\Git\ПОИП\UART2\USART2\settings\lab5.Debug.driver.xcl" 
 }
 else
 {
-& "D:\Папка\Универ\7 семак\IAR\common\bin\cspybat" -f "C:\Users\Константин\Desktop\Lab6\settings\lab5.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\Константин\Desktop\Lab6\settings\lab5.Debug.driver.xcl" 
+& "D:\Папка\Универ\7 семак\IAR\common\bin\cspybat" -f "E:\Git\ПОИП\UART2\USART2\settings\lab5.Debug.general.xcl" --debug_file=$debugfile --backend -f "E:\Git\ПОИП\UART2\USART2\settings\lab5.Debug.driver.xcl" 
 }

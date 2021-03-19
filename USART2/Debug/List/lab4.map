@@ -1,20 +1,17 @@
 ###############################################################################
 #
-# IAR ELF Linker V8.40.2.214/W32 for ARM                  16/Mar/2021  20:53:05
+# IAR ELF Linker V8.40.2.214/W32 for ARM                  16/Mar/2021  22:05:37
 # Copyright 2007-2019 IAR Systems AB.
 #
-#    Output file  =
-#        C:\Users\Константин\Desktop\Lab6\Debug\Exe\lab4.out
-#    Map file     =
-#        C:\Users\Константин\Desktop\Lab6\Debug\List\lab4.map
+#    Output file  =  E:\Git\ПОИП\UART2\USART2\Debug\Exe\lab4.out
+#    Map file     =  E:\Git\ПОИП\UART2\USART2\Debug\List\lab4.map
 #    Command line =
-#        -f C:\Users\D9F8~1\AppData\Local\Temp\EWB67E.tmp
-#        (C:\Users\Константин\Desktop\Lab6\Debug\Obj\main.o
-#        C:\Users\Константин\Desktop\Lab6\Debug\Obj\startupF411RE.o
-#        --no_out_extension -o
-#        C:\Users\Константин\Desktop\Lab6\Debug\Exe\lab4.out --map
-#        C:\Users\Константин\Desktop\Lab6\Debug\List\lab4.map
-#        --config "D:\Папка\Универ\7
+#        -f C:\Users\D9F8~1\AppData\Local\Temp\EW1F85.tmp
+#        (E:\Git\ПОИП\UART2\USART2\Debug\Obj\main.o
+#        E:\Git\ПОИП\UART2\USART2\Debug\Obj\startupF411RE.o
+#        --no_out_extension -o E:\Git\ПОИП\UART2\USART2\Debug\Exe\lab4.out
+#        --map E:\Git\ПОИП\UART2\USART2\Debug\List\lab4.map --config
+#        "D:\Папка\Универ\7
 #        семак\IAR\arm\config\linker\ST\stm32f411xE.icf" --semihosting
 #        --entry __iar_program_start --vfe --text_out locale)
 #
@@ -60,7 +57,7 @@ define block HEAP with size = 8K, alignment = 8 { };
   .intvec                const     0x800'0000   0x198  startupF411RE.o [1]
                                  - 0x800'0198   0x198
 
-"P1":                                           0x5d0
+"P1":                                           0x5c4
   .text                  ro code   0x800'0198    0xa4  main.o [1]
   .text                  ro code   0x800'023c     0xc  startupF411RE.o [1]
   .text                  ro code   0x800'0248    0x14  main.o [1]
@@ -96,33 +93,33 @@ define block HEAP with size = 8K, alignment = 8 { };
   .text                  ro code   0x800'0520    0x14  main.o [1]
   .text                  ro code   0x800'0534    0x14  main.o [1]
   .text                  ro code   0x800'0548    0x14  exit.o [6]
-  .rodata                const     0x800'055c    0x50  main.o [1]
-  .text                  ro code   0x800'05ac    0x32  startupF411RE.o [1]
-  .text                  ro code   0x800'05e0    0x22  fpinit_M.o [4]
-  .text                  ro code   0x800'0604    0x1e  cmain.o [5]
-  .text                  ro code   0x800'0624    0x28  data_init.o [5]
-  .text                  ro code   0x800'064c     0x4  exit.o [2]
-  .text                  ro code   0x800'0650     0xa  cexit.o [5]
-  .text                  ro code   0x800'065a    0x2e  startupF411RE.o [1]
-  .text                  ro code   0x800'0688     0x8  startupF411RE.o [1]
-  .text                  ro code   0x800'0690     0x8  startupF411RE.o [1]
-  .text                  ro code   0x800'0698    0x10  startupF411RE.o [1]
-  .text                  ro code   0x800'06a8    0x10  startupF411RE.o [1]
-  .iar.init_table        const     0x800'06b8    0x14  - Linker created -
-  .text                  ro code   0x800'06cc    0x20  startupF411RE.o [1]
-  .text                  ro code   0x800'06ec    0x10  startupF411RE.o [1]
-  .text                  ro code   0x800'06fc    0x10  startupF411RE.o [1]
-  .text                  ro code   0x800'070c    0x20  cmain_call_ctors.o [5]
-  .text                  ro code   0x800'072c    0x18  cppinit.o [2]
-  .rodata                const     0x800'0744    0x10  main.o [1]
-  .rodata                const     0x800'0754     0xc  main.o [1]
-  SHT$$PREINIT_ARRAY               0x800'0760     0x0  <Block>
-  SHT$$INIT_ARRAY                  0x800'0760     0x8  <Block>
-    .init_array          const     0x800'0760     0x4  main.o [1]
-    .init_array          const     0x800'0764     0x4  startupF411RE.o [1]
-  __iar_tls$$INIT_ARRAY            0x800'0768     0x0  <Block>
-  .rodata                const     0x800'0768     0x0  zero_init3.o [5]
-                                 - 0x800'0768   0x5d0
+  .rodata                const     0x800'055c    0x44  main.o [1]
+  .text                  ro code   0x800'05a0    0x32  startupF411RE.o [1]
+  .text                  ro code   0x800'05d4    0x22  fpinit_M.o [4]
+  .text                  ro code   0x800'05f8    0x1e  cmain.o [5]
+  .text                  ro code   0x800'0618    0x28  data_init.o [5]
+  .text                  ro code   0x800'0640     0x4  exit.o [2]
+  .text                  ro code   0x800'0644     0xa  cexit.o [5]
+  .text                  ro code   0x800'064e    0x2e  startupF411RE.o [1]
+  .text                  ro code   0x800'067c     0x8  startupF411RE.o [1]
+  .text                  ro code   0x800'0684     0x8  startupF411RE.o [1]
+  .text                  ro code   0x800'068c    0x10  startupF411RE.o [1]
+  .text                  ro code   0x800'069c    0x10  startupF411RE.o [1]
+  .iar.init_table        const     0x800'06ac    0x14  - Linker created -
+  .text                  ro code   0x800'06c0    0x20  startupF411RE.o [1]
+  .text                  ro code   0x800'06e0    0x10  startupF411RE.o [1]
+  .text                  ro code   0x800'06f0    0x10  startupF411RE.o [1]
+  .text                  ro code   0x800'0700    0x20  cmain_call_ctors.o [5]
+  .text                  ro code   0x800'0720    0x18  cppinit.o [2]
+  .rodata                const     0x800'0738    0x10  main.o [1]
+  .rodata                const     0x800'0748     0xc  main.o [1]
+  SHT$$PREINIT_ARRAY               0x800'0754     0x0  <Block>
+  SHT$$INIT_ARRAY                  0x800'0754     0x8  <Block>
+    .init_array          const     0x800'0754     0x4  main.o [1]
+    .init_array          const     0x800'0758     0x4  startupF411RE.o [1]
+  __iar_tls$$INIT_ARRAY            0x800'075c     0x0  <Block>
+  .rodata                const     0x800'075c     0x0  zero_init3.o [5]
+                                 - 0x800'075c   0x5c4
 
 "P2", part 1 of 2:                              0x10c
   .bss                   zero     0x2000'0000   0x108  startupF411RE.o [1]
@@ -138,7 +135,7 @@ Unused ranges:
 
          From           To      Size
          ----           --      ----
-   0x800'0768   0x807'ffff  0x7'f898
+   0x800'075c   0x807'ffff  0x7'f8a4
   0x2000'010c  0x2000'010f       0x4
   0x2000'2110  0x2001'ffff  0x1'def0
 
@@ -167,11 +164,11 @@ command line/config:
     ------------------------------------------------
     Total:
 
-C:\Users\Константин\Desktop\Lab6\Debug\Obj: [1]
-    main.o                     624      112
+E:\Git\ПОИП\UART2\USART2\Debug\Obj: [1]
+    main.o                     624      100
     startupF411RE.o            250      412      265
     ------------------------------------------------
-    Total:                     874      524      265
+    Total:                     874      512      265
 
 dl7M_tln.a: [2]
     abort.o                      6
@@ -210,7 +207,7 @@ shb_l.a: [6]
     Gaps                        11
     Linker created                       20    8'192
 ----------------------------------------------------
-    Grand Total:             1'351      545    8'457
+    Grand Total:             1'351      533    8'457
 
 
 *******************************************************************************
@@ -219,58 +216,58 @@ shb_l.a: [6]
 
 Entry                       Address   Size  Type      Object
 -----                       -------   ----  ----      ------
-.iar.init_table$$Base    0x800'06b8          --   Gb  - Linker created -
-.iar.init_table$$Limit   0x800'06cc          --   Gb  - Linker created -
-?main                    0x800'0605         Code  Gb  cmain.o [5]
+.iar.init_table$$Base    0x800'06ac          --   Gb  - Linker created -
+.iar.init_table$$Limit   0x800'06c0          --   Gb  - Linker created -
+?main                    0x800'05f9         Code  Gb  cmain.o [5]
 CSTACK$$Base            0x2000'0110          --   Gb  - Linker created -
 CSTACK$$Limit           0x2000'2110          --   Gb  - Linker created -
-DummyModule::handler()   0x800'05cd    0x2  Code  Gb  startupF411RE.o [1]
+DummyModule::handler()   0x800'05c1    0x2  Code  Gb  startupF411RE.o [1]
 Initialization guard variable for usartDriver
                         0x2000'0108    0x1  Data  Gb  startupF411RE.o [1]
-Region$$Table$$Base      0x800'06b8          --   Gb  - Linker created -
-Region$$Table$$Limit     0x800'06cc          --   Gb  - Linker created -
-SHT$$INIT_ARRAY$$Base    0x800'0760          --   Gb  - Linker created -
-SHT$$INIT_ARRAY$$Limit   0x800'0768          --   Gb  - Linker created -
+Region$$Table$$Base      0x800'06ac          --   Gb  - Linker created -
+Region$$Table$$Limit     0x800'06c0          --   Gb  - Linker created -
+SHT$$INIT_ARRAY$$Base    0x800'0754          --   Gb  - Linker created -
+SHT$$INIT_ARRAY$$Limit   0x800'075c          --   Gb  - Linker created -
 SHT$$PREINIT_ARRAY$$Base
-                         0x800'0760          --   Gb  - Linker created -
+                         0x800'0754          --   Gb  - Linker created -
 SHT$$PREINIT_ARRAY$$Limit
-                         0x800'0760          --   Gb  - Linker created -
+                         0x800'0754          --   Gb  - Linker created -
 USARTDriver<Usart2>::OnNextByteTransmit()
-                         0x800'065b   0x2e  Code  Gb  startupF411RE.o [1]
+                         0x800'064f   0x2e  Code  Gb  startupF411RE.o [1]
 USARTDriver<Usart2>::SendMessage(char const *, unsigned int)
                          0x800'03d1   0x68  Code  Gb  main.o [1]
 USARTDriver<Usart2>::SendMessage(char const *, unsigned int)::string
-                         0x800'0754    0xc  Data  Gb  main.o [1]
+                         0x800'0748    0xc  Data  Gb  main.o [1]
 USARTDriver<Usart2>::SendMessage(char const *, unsigned int)::string (instance 2)
-                         0x800'055c   0x50  Data  Gb  main.o [1]
+                         0x800'055c   0x44  Data  Gb  main.o [1]
 USARTDriver<Usart2>::USARTDriver()
                          0x800'023d    0xc  Code  Gb  startupF411RE.o [1]
 Usart<USART2, usartDriver>::InterruptDisable()
-                         0x800'0691    0x8  Code  Gb  startupF411RE.o [1]
+                         0x800'0685    0x8  Code  Gb  startupF411RE.o [1]
 Usart<USART2, usartDriver>::InterruptEnable()
                          0x800'0505    0x8  Code  Gb  main.o [1]
 Usart<USART2, usartDriver>::InterruptHandler()
-                         0x800'06cd   0x20  Code  Gb  startupF411RE.o [1]
+                         0x800'06c1   0x20  Code  Gb  startupF411RE.o [1]
 Usart<USART2, usartDriver>::TransmitDisable()
-                         0x800'0689    0x8  Code  Gb  startupF411RE.o [1]
+                         0x800'067d    0x8  Code  Gb  startupF411RE.o [1]
 Usart<USART2, usartDriver>::TransmitEnable()
                          0x800'04fd    0x8  Code  Gb  main.o [1]
 Usart<USART2, usartDriver>::WriteByte(unsigned char)
                          0x800'04ef    0xe  Code  Gb  startupF411RE.o [1]
 __aeabi_assert           0x800'044d   0x24  Code  Gb  ABIassert.o [6]
-__call_ctors             0x800'072d   0x18  Code  Gb  cppinit.o [2]
-__cmain                  0x800'0605         Code  Gb  cmain.o [5]
+__call_ctors             0x800'0721   0x18  Code  Gb  cppinit.o [2]
+__cmain                  0x800'05f9         Code  Gb  cmain.o [5]
 __exit                   0x800'0549   0x14  Code  Gb  exit.o [6]
 __iar_cstart_call_ctors
-                         0x800'070d   0x20  Code  Gb  cmain_call_ctors.o [5]
-__iar_data_init3         0x800'0625   0x28  Code  Gb  data_init.o [5]
+                         0x800'0701   0x20  Code  Gb  cmain_call_ctors.o [5]
+__iar_data_init3         0x800'0619   0x28  Code  Gb  data_init.o [5]
 __iar_debug_exceptions   0x800'03ce    0x1  Data  Gb  unwind_debug.o [6]
-__iar_init_vfp           0x800'05e1         Code  Gb  fpinit_M.o [4]
-__iar_program_start      0x800'05cf   0x10  Code  Gb  startupF411RE.o [1]
+__iar_init_vfp           0x800'05d5         Code  Gb  fpinit_M.o [4]
+__iar_program_start      0x800'05c3   0x10  Code  Gb  startupF411RE.o [1]
 __iar_tls$$INIT_ARRAY$$Base
-                         0x800'0768          --   Gb  - Linker created -
+                         0x800'075c          --   Gb  - Linker created -
 __iar_tls$$INIT_ARRAY$$Limit
-                         0x800'0768          --   Gb  - Linker created -
+                         0x800'075c          --   Gb  - Linker created -
 __iar_unaligned_memcpy   0x800'0475         Code  Gb  ABImemcpy_unaligned.o [5]
 __iar_unaligned_memcpy4
                          0x800'0495         Code  Gb  ABImemcpy_unaligned.o [5]
@@ -279,11 +276,11 @@ __iar_unaligned_memcpy8
 __iar_zero_init3         0x800'035f   0x3a  Code  Gb  zero_init3.o [5]
 __low_level_init         0x800'01af   0x5e  Code  Gb  main.o [1]
 __sti__routine           0x800'0199   0x16  Code  Lc  main.o [1]
-__sti__routine           0x800'05ad   0x16  Code  Lc  startupF411RE.o [1]
+__sti__routine           0x800'05a1   0x16  Code  Lc  startupF411RE.o [1]
 __vector_table           0x800'0000  0x198  Data  Gb  startupF411RE.o [1]
-_call_main               0x800'0611         Code  Gb  cmain.o [5]
-_exit                    0x800'0651         Code  Gb  cexit.o [5]
-_main                    0x800'061f         Code  Gb  cmain.o [5]
+_call_main               0x800'0605         Code  Gb  cmain.o [5]
+_exit                    0x800'0645         Code  Gb  cexit.o [5]
+_main                    0x800'0613         Code  Gb  cmain.o [5]
 abort                    0x800'050d    0x6  Code  Gb  abort.o [2]
 bool FieldValueBase<RCC_CFGR_SWS_Values<RCC::CFGR, (unsigned int)2, (unsigned int)2, ReadMode, RCC::RCCCFGRBase>, RCC::RCCCFGRBase, (unsigned int)0>::IsSet<ReadMode, void>()
                          0x800'027d   0x18  Code  Gb  main.o [1]
@@ -292,10 +289,10 @@ bool FieldValueBase<RCC_CR_HSIRDY_Values<RCC::CR, (unsigned int)1, (unsigned int
 bool FieldValueBase<TIM2_SR_UIF_Values<TIM2::SR, (unsigned int)0, (unsigned int)1, ReadWriteMode, TIM2::TIM2SRBase>, TIM2::TIM2SRBase, (unsigned int)0>::IsSet<ReadWriteMode, void>()
                          0x800'0439   0x14  Code  Gb  main.o [1]
 bool FieldValueBase<USART2_CR1_TXEIE_Values<USART2::CR1, (unsigned int)7, (unsigned int)1, ReadWriteMode, USART2::USART2CR1Base>, USART2::USART2CR1Base, (unsigned int)1>::IsSet<ReadWriteMode, void>()
-                         0x800'06fd   0x10  Code  Gb  startupF411RE.o [1]
+                         0x800'06f1   0x10  Code  Gb  startupF411RE.o [1]
 bool FieldValueBase<USART2_SR_TXE_Values<USART2::SR, (unsigned int)7, (unsigned int)1, ReadMode, USART2::USART2SRBase>, USART2::USART2SRBase, (unsigned int)1>::IsSet<ReadMode, void>()
-                         0x800'06ed   0x10  Code  Gb  startupF411RE.o [1]
-exit                     0x800'064d    0x4  Code  Gb  exit.o [2]
+                         0x800'06e1   0x10  Code  Gb  startupF411RE.o [1]
+exit                     0x800'0641    0x4  Code  Gb  exit.o [2]
 main                     0x800'020d   0x22  Code  Gb  main.o [1]
 std::array<unsigned char, (unsigned int)255>::data()
                          0x800'0471    0x2  Code  Gb  main.o [1]
@@ -314,11 +311,11 @@ void FieldValueBase<TIM2_CR1_CEN_Values<TIM2::CR1, (unsigned int)0, (unsigned in
 void FieldValueBase<TIM2_SR_UIF_Values<TIM2::SR, (unsigned int)0, (unsigned int)1, ReadWriteMode, TIM2::TIM2SRBase>, TIM2::TIM2SRBase, (unsigned int)0>::Set<ReadWriteMode, void>()
                          0x800'0331   0x10  Code  Gb  main.o [1]
 void FieldValueBase<USART2_CR1_RE_Values<USART2::CR1, (unsigned int)2, (unsigned int)1, ReadWriteMode, USART2::USART2CR1Base>, USART2::USART2CR1Base, (unsigned int)0>::Set<ReadWriteMode, void>()
-                         0x800'0699   0x10  Code  Gb  startupF411RE.o [1]
+                         0x800'068d   0x10  Code  Gb  startupF411RE.o [1]
 void FieldValueBase<USART2_CR1_TE_Values<USART2::CR1, (unsigned int)3, (unsigned int)1, ReadWriteMode, USART2::USART2CR1Base>, USART2::USART2CR1Base, (unsigned int)1>::Set<ReadWriteMode, void>()
                          0x800'0521   0x14  Code  Gb  main.o [1]
 void FieldValueBase<USART2_CR1_TXEIE_Values<USART2::CR1, (unsigned int)7, (unsigned int)1, ReadWriteMode, USART2::USART2CR1Base>, USART2::USART2CR1Base, (unsigned int)0>::Set<ReadWriteMode, void>()
-                         0x800'06a9   0x10  Code  Gb  startupF411RE.o [1]
+                         0x800'069d   0x10  Code  Gb  startupF411RE.o [1]
 void FieldValueBase<USART2_CR1_TXEIE_Values<USART2::CR1, (unsigned int)7, (unsigned int)1, ReadWriteMode, USART2::USART2CR1Base>, USART2::USART2CR1Base, (unsigned int)1>::Set<ReadWriteMode, void>()
                          0x800'0535   0x14  Code  Gb  main.o [1]
 void FieldValueBase<USART2_CR1_UE_Values<USART2::CR1, (unsigned int)13, (unsigned int)1, ReadWriteMode, USART2::USART2CR1Base>, USART2::USART2CR1Base, (unsigned int)1>::Set<ReadWriteMode, void>()
@@ -343,7 +340,7 @@ void RegisterBase<(unsigned int)3758153988, (unsigned int)32, ReadWriteMode>::Wr
                          0x800'030d    0xc  Code  Gb  main.o [1]
 
 
-[1] = C:\Users\Константин\Desktop\Lab6\Debug\Obj
+[1] = E:\Git\ПОИП\UART2\USART2\Debug\Obj
 [2] = dl7M_tln.a
 [3] = dlpp7M_tl_nc.a
 [4] = m7M_tls.a
@@ -351,7 +348,7 @@ void RegisterBase<(unsigned int)3758153988, (unsigned int)32, ReadWriteMode>::Wr
 [6] = shb_l.a
 
   1'351 bytes of readonly  code memory
-    545 bytes of readonly  data memory
+    533 bytes of readonly  data memory
   8'457 bytes of readwrite data memory
 
 Errors: none

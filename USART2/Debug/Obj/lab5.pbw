@@ -7,7 +7,7 @@
     "location": {
       "column": "9",
       "line": "11",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "name": "GPIOAENUMS_HPP",
     "origin": "user_include",
@@ -21,7 +21,7 @@
     "location": {
       "column": "8",
       "line": "16",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER15_Values",
@@ -36,7 +36,7 @@
     "location": {
       "column": "8",
       "line": "25",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER14_Values",
@@ -51,7 +51,7 @@
     "location": {
       "column": "8",
       "line": "30",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER13_Values",
@@ -66,7 +66,7 @@
     "location": {
       "column": "8",
       "line": "35",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER12_Values",
@@ -81,7 +81,7 @@
     "location": {
       "column": "8",
       "line": "40",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER11_Values",
@@ -96,7 +96,7 @@
     "location": {
       "column": "8",
       "line": "45",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER10_Values",
@@ -111,7 +111,7 @@
     "location": {
       "column": "8",
       "line": "50",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER9_Values",
@@ -126,7 +126,7 @@
     "location": {
       "column": "8",
       "line": "55",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER8_Values",
@@ -141,7 +141,7 @@
     "location": {
       "column": "8",
       "line": "60",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER7_Values",
@@ -156,7 +156,7 @@
     "location": {
       "column": "8",
       "line": "65",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER6_Values",
@@ -171,7 +171,7 @@
     "location": {
       "column": "8",
       "line": "70",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER5_Values",
@@ -186,7 +186,7 @@
     "location": {
       "column": "8",
       "line": "75",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER4_Values",
@@ -201,7 +201,7 @@
     "location": {
       "column": "8",
       "line": "80",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER3_Values",
@@ -216,7 +216,7 @@
     "location": {
       "column": "8",
       "line": "85",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER2_Values",
@@ -231,7 +231,7 @@
     "location": {
       "column": "8",
       "line": "90",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER1_Values",
@@ -246,7 +246,7 @@
     "location": {
       "column": "8",
       "line": "95",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_MODER_MODER0_Values",
@@ -261,7 +261,7 @@
     "location": {
       "column": "8",
       "line": "100",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT15_Values",
@@ -276,7 +276,7 @@
     "location": {
       "column": "8",
       "line": "107",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT14_Values",
@@ -291,7 +291,7 @@
     "location": {
       "column": "8",
       "line": "114",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT13_Values",
@@ -306,7 +306,7 @@
     "location": {
       "column": "8",
       "line": "121",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT12_Values",
@@ -321,7 +321,7 @@
     "location": {
       "column": "8",
       "line": "128",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT11_Values",
@@ -336,7 +336,7 @@
     "location": {
       "column": "8",
       "line": "135",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT10_Values",
@@ -351,7 +351,7 @@
     "location": {
       "column": "8",
       "line": "142",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT9_Values",
@@ -366,7 +366,7 @@
     "location": {
       "column": "8",
       "line": "149",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT8_Values",
@@ -381,7 +381,7 @@
     "location": {
       "column": "8",
       "line": "156",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT7_Values",
@@ -396,7 +396,7 @@
     "location": {
       "column": "8",
       "line": "163",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT6_Values",
@@ -411,7 +411,7 @@
     "location": {
       "column": "8",
       "line": "170",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT5_Values",
@@ -426,7 +426,7 @@
     "location": {
       "column": "8",
       "line": "177",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT4_Values",
@@ -441,7 +441,7 @@
     "location": {
       "column": "8",
       "line": "184",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT3_Values",
@@ -456,7 +456,7 @@
     "location": {
       "column": "8",
       "line": "191",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT2_Values",
@@ -471,7 +471,7 @@
     "location": {
       "column": "8",
       "line": "198",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT1_Values",
@@ -486,7 +486,7 @@
     "location": {
       "column": "8",
       "line": "205",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OTYPER_OT0_Values",
@@ -501,7 +501,7 @@
     "location": {
       "column": "8",
       "line": "212",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR15_Values",
@@ -516,7 +516,7 @@
     "location": {
       "column": "8",
       "line": "221",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR14_Values",
@@ -531,7 +531,7 @@
     "location": {
       "column": "8",
       "line": "227",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR13_Values",
@@ -546,7 +546,7 @@
     "location": {
       "column": "8",
       "line": "233",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR12_Values",
@@ -561,7 +561,7 @@
     "location": {
       "column": "8",
       "line": "239",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR11_Values",
@@ -576,7 +576,7 @@
     "location": {
       "column": "8",
       "line": "245",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR10_Values",
@@ -591,7 +591,7 @@
     "location": {
       "column": "8",
       "line": "251",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR9_Values",
@@ -606,7 +606,7 @@
     "location": {
       "column": "8",
       "line": "257",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR8_Values",
@@ -621,7 +621,7 @@
     "location": {
       "column": "8",
       "line": "263",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR7_Values",
@@ -636,7 +636,7 @@
     "location": {
       "column": "8",
       "line": "269",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR6_Values",
@@ -651,7 +651,7 @@
     "location": {
       "column": "8",
       "line": "275",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR5_Values",
@@ -666,7 +666,7 @@
     "location": {
       "column": "8",
       "line": "281",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR4_Values",
@@ -681,7 +681,7 @@
     "location": {
       "column": "8",
       "line": "287",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR3_Values",
@@ -696,7 +696,7 @@
     "location": {
       "column": "8",
       "line": "293",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR2_Values",
@@ -711,7 +711,7 @@
     "location": {
       "column": "8",
       "line": "299",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR1_Values",
@@ -726,7 +726,7 @@
     "location": {
       "column": "8",
       "line": "305",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_OSPEEDR_OSPEEDR0_Values",
@@ -741,7 +741,7 @@
     "location": {
       "column": "8",
       "line": "311",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR15_Values",
@@ -756,7 +756,7 @@
     "location": {
       "column": "8",
       "line": "319",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR14_Values",
@@ -771,7 +771,7 @@
     "location": {
       "column": "8",
       "line": "325",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR13_Values",
@@ -786,7 +786,7 @@
     "location": {
       "column": "8",
       "line": "331",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR12_Values",
@@ -801,7 +801,7 @@
     "location": {
       "column": "8",
       "line": "337",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR11_Values",
@@ -816,7 +816,7 @@
     "location": {
       "column": "8",
       "line": "343",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR10_Values",
@@ -831,7 +831,7 @@
     "location": {
       "column": "8",
       "line": "349",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR9_Values",
@@ -846,7 +846,7 @@
     "location": {
       "column": "8",
       "line": "355",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR8_Values",
@@ -861,7 +861,7 @@
     "location": {
       "column": "8",
       "line": "361",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR7_Values",
@@ -876,7 +876,7 @@
     "location": {
       "column": "8",
       "line": "367",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR6_Values",
@@ -891,7 +891,7 @@
     "location": {
       "column": "8",
       "line": "373",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR5_Values",
@@ -906,7 +906,7 @@
     "location": {
       "column": "8",
       "line": "379",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR4_Values",
@@ -921,7 +921,7 @@
     "location": {
       "column": "8",
       "line": "385",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR3_Values",
@@ -936,7 +936,7 @@
     "location": {
       "column": "8",
       "line": "391",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR2_Values",
@@ -951,7 +951,7 @@
     "location": {
       "column": "8",
       "line": "397",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR1_Values",
@@ -966,7 +966,7 @@
     "location": {
       "column": "8",
       "line": "403",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_PUPDR_PUPDR0_Values",
@@ -981,7 +981,7 @@
     "location": {
       "column": "8",
       "line": "409",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR15_Values",
@@ -996,7 +996,7 @@
     "location": {
       "column": "8",
       "line": "416",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR14_Values",
@@ -1011,7 +1011,7 @@
     "location": {
       "column": "8",
       "line": "423",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR13_Values",
@@ -1026,7 +1026,7 @@
     "location": {
       "column": "8",
       "line": "430",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR12_Values",
@@ -1041,7 +1041,7 @@
     "location": {
       "column": "8",
       "line": "437",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR11_Values",
@@ -1056,7 +1056,7 @@
     "location": {
       "column": "8",
       "line": "444",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR10_Values",
@@ -1071,7 +1071,7 @@
     "location": {
       "column": "8",
       "line": "451",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR9_Values",
@@ -1086,7 +1086,7 @@
     "location": {
       "column": "8",
       "line": "458",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR8_Values",
@@ -1101,7 +1101,7 @@
     "location": {
       "column": "8",
       "line": "465",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR7_Values",
@@ -1116,7 +1116,7 @@
     "location": {
       "column": "8",
       "line": "472",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR6_Values",
@@ -1131,7 +1131,7 @@
     "location": {
       "column": "8",
       "line": "479",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR5_Values",
@@ -1146,7 +1146,7 @@
     "location": {
       "column": "8",
       "line": "486",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR4_Values",
@@ -1161,7 +1161,7 @@
     "location": {
       "column": "8",
       "line": "493",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR3_Values",
@@ -1176,7 +1176,7 @@
     "location": {
       "column": "8",
       "line": "500",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR2_Values",
@@ -1191,7 +1191,7 @@
     "location": {
       "column": "8",
       "line": "507",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR1_Values",
@@ -1206,7 +1206,7 @@
     "location": {
       "column": "8",
       "line": "514",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_IDR_IDR0_Values",
@@ -1221,7 +1221,7 @@
     "location": {
       "column": "8",
       "line": "521",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR15_Values",
@@ -1236,7 +1236,7 @@
     "location": {
       "column": "8",
       "line": "528",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR14_Values",
@@ -1251,7 +1251,7 @@
     "location": {
       "column": "8",
       "line": "535",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR13_Values",
@@ -1266,7 +1266,7 @@
     "location": {
       "column": "8",
       "line": "542",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR12_Values",
@@ -1281,7 +1281,7 @@
     "location": {
       "column": "8",
       "line": "549",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR11_Values",
@@ -1296,7 +1296,7 @@
     "location": {
       "column": "8",
       "line": "556",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR10_Values",
@@ -1311,7 +1311,7 @@
     "location": {
       "column": "8",
       "line": "563",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR9_Values",
@@ -1326,7 +1326,7 @@
     "location": {
       "column": "8",
       "line": "570",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR8_Values",
@@ -1341,7 +1341,7 @@
     "location": {
       "column": "8",
       "line": "577",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR7_Values",
@@ -1356,7 +1356,7 @@
     "location": {
       "column": "8",
       "line": "584",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR6_Values",
@@ -1371,7 +1371,7 @@
     "location": {
       "column": "8",
       "line": "591",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR5_Values",
@@ -1386,7 +1386,7 @@
     "location": {
       "column": "8",
       "line": "598",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR4_Values",
@@ -1401,7 +1401,7 @@
     "location": {
       "column": "8",
       "line": "605",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR3_Values",
@@ -1416,7 +1416,7 @@
     "location": {
       "column": "8",
       "line": "612",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR2_Values",
@@ -1431,7 +1431,7 @@
     "location": {
       "column": "8",
       "line": "619",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR1_Values",
@@ -1446,7 +1446,7 @@
     "location": {
       "column": "8",
       "line": "626",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_ODR_ODR0_Values",
@@ -1461,7 +1461,7 @@
     "location": {
       "column": "8",
       "line": "633",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR15_Values",
@@ -1476,7 +1476,7 @@
     "location": {
       "column": "8",
       "line": "639",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR14_Values",
@@ -1491,7 +1491,7 @@
     "location": {
       "column": "8",
       "line": "645",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR13_Values",
@@ -1506,7 +1506,7 @@
     "location": {
       "column": "8",
       "line": "651",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR12_Values",
@@ -1521,7 +1521,7 @@
     "location": {
       "column": "8",
       "line": "657",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR11_Values",
@@ -1536,7 +1536,7 @@
     "location": {
       "column": "8",
       "line": "663",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR10_Values",
@@ -1551,7 +1551,7 @@
     "location": {
       "column": "8",
       "line": "669",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR9_Values",
@@ -1566,7 +1566,7 @@
     "location": {
       "column": "8",
       "line": "675",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR8_Values",
@@ -1581,7 +1581,7 @@
     "location": {
       "column": "8",
       "line": "681",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR7_Values",
@@ -1596,7 +1596,7 @@
     "location": {
       "column": "8",
       "line": "687",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR6_Values",
@@ -1611,7 +1611,7 @@
     "location": {
       "column": "8",
       "line": "693",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR5_Values",
@@ -1626,7 +1626,7 @@
     "location": {
       "column": "8",
       "line": "699",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR4_Values",
@@ -1641,7 +1641,7 @@
     "location": {
       "column": "8",
       "line": "705",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR3_Values",
@@ -1656,7 +1656,7 @@
     "location": {
       "column": "8",
       "line": "711",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR2_Values",
@@ -1671,7 +1671,7 @@
     "location": {
       "column": "8",
       "line": "717",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR1_Values",
@@ -1686,7 +1686,7 @@
     "location": {
       "column": "8",
       "line": "723",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BR0_Values",
@@ -1701,7 +1701,7 @@
     "location": {
       "column": "8",
       "line": "729",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS15_Values",
@@ -1716,7 +1716,7 @@
     "location": {
       "column": "8",
       "line": "735",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS14_Values",
@@ -1731,7 +1731,7 @@
     "location": {
       "column": "8",
       "line": "741",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS13_Values",
@@ -1746,7 +1746,7 @@
     "location": {
       "column": "8",
       "line": "747",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS12_Values",
@@ -1761,7 +1761,7 @@
     "location": {
       "column": "8",
       "line": "753",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS11_Values",
@@ -1776,7 +1776,7 @@
     "location": {
       "column": "8",
       "line": "759",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS10_Values",
@@ -1791,7 +1791,7 @@
     "location": {
       "column": "8",
       "line": "765",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS9_Values",
@@ -1806,7 +1806,7 @@
     "location": {
       "column": "8",
       "line": "771",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS8_Values",
@@ -1821,7 +1821,7 @@
     "location": {
       "column": "8",
       "line": "777",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS7_Values",
@@ -1836,7 +1836,7 @@
     "location": {
       "column": "8",
       "line": "783",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS6_Values",
@@ -1851,7 +1851,7 @@
     "location": {
       "column": "8",
       "line": "789",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS5_Values",
@@ -1866,7 +1866,7 @@
     "location": {
       "column": "8",
       "line": "795",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS4_Values",
@@ -1881,7 +1881,7 @@
     "location": {
       "column": "8",
       "line": "801",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS3_Values",
@@ -1896,7 +1896,7 @@
     "location": {
       "column": "8",
       "line": "807",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS2_Values",
@@ -1911,7 +1911,7 @@
     "location": {
       "column": "8",
       "line": "813",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS1_Values",
@@ -1926,7 +1926,7 @@
     "location": {
       "column": "8",
       "line": "819",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_BSRR_BS0_Values",
@@ -1941,7 +1941,7 @@
     "location": {
       "column": "8",
       "line": "825",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCKK_Values",
@@ -1956,7 +1956,7 @@
     "location": {
       "column": "8",
       "line": "832",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK15_Values",
@@ -1971,7 +1971,7 @@
     "location": {
       "column": "8",
       "line": "839",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK14_Values",
@@ -1986,7 +1986,7 @@
     "location": {
       "column": "8",
       "line": "845",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK13_Values",
@@ -2001,7 +2001,7 @@
     "location": {
       "column": "8",
       "line": "851",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK12_Values",
@@ -2016,7 +2016,7 @@
     "location": {
       "column": "8",
       "line": "857",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK11_Values",
@@ -2031,7 +2031,7 @@
     "location": {
       "column": "8",
       "line": "863",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK10_Values",
@@ -2046,7 +2046,7 @@
     "location": {
       "column": "8",
       "line": "869",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK9_Values",
@@ -2061,7 +2061,7 @@
     "location": {
       "column": "8",
       "line": "875",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK8_Values",
@@ -2076,7 +2076,7 @@
     "location": {
       "column": "8",
       "line": "881",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK7_Values",
@@ -2091,7 +2091,7 @@
     "location": {
       "column": "8",
       "line": "887",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK6_Values",
@@ -2106,7 +2106,7 @@
     "location": {
       "column": "8",
       "line": "893",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK5_Values",
@@ -2121,7 +2121,7 @@
     "location": {
       "column": "8",
       "line": "899",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK4_Values",
@@ -2136,7 +2136,7 @@
     "location": {
       "column": "8",
       "line": "905",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK3_Values",
@@ -2151,7 +2151,7 @@
     "location": {
       "column": "8",
       "line": "911",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK2_Values",
@@ -2166,7 +2166,7 @@
     "location": {
       "column": "8",
       "line": "917",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK1_Values",
@@ -2181,7 +2181,7 @@
     "location": {
       "column": "8",
       "line": "923",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_LCKR_LCK0_Values",
@@ -2196,7 +2196,7 @@
     "location": {
       "column": "8",
       "line": "929",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRL_AFRL7_Values",
@@ -2211,7 +2211,7 @@
     "location": {
       "column": "8",
       "line": "950",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRL_AFRL6_Values",
@@ -2226,7 +2226,7 @@
     "location": {
       "column": "8",
       "line": "956",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRL_AFRL5_Values",
@@ -2241,7 +2241,7 @@
     "location": {
       "column": "8",
       "line": "962",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRL_AFRL4_Values",
@@ -2256,7 +2256,7 @@
     "location": {
       "column": "8",
       "line": "968",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRL_AFRL3_Values",
@@ -2271,7 +2271,7 @@
     "location": {
       "column": "8",
       "line": "974",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRL_AFRL2_Values",
@@ -2286,7 +2286,7 @@
     "location": {
       "column": "8",
       "line": "980",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRL_AFRL1_Values",
@@ -2301,7 +2301,7 @@
     "location": {
       "column": "8",
       "line": "986",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRL_AFRL0_Values",
@@ -2316,7 +2316,7 @@
     "location": {
       "column": "8",
       "line": "992",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRH_AFRH15_Values",
@@ -2331,7 +2331,7 @@
     "location": {
       "column": "8",
       "line": "998",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRH_AFRH14_Values",
@@ -2346,7 +2346,7 @@
     "location": {
       "column": "8",
       "line": "1004",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRH_AFRH13_Values",
@@ -2361,7 +2361,7 @@
     "location": {
       "column": "8",
       "line": "1010",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRH_AFRH12_Values",
@@ -2376,7 +2376,7 @@
     "location": {
       "column": "8",
       "line": "1016",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRH_AFRH11_Values",
@@ -2391,7 +2391,7 @@
     "location": {
       "column": "8",
       "line": "1022",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRH_AFRH10_Values",
@@ -2406,7 +2406,7 @@
     "location": {
       "column": "8",
       "line": "1028",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRH_AFRH9_Values",
@@ -2421,7 +2421,7 @@
     "location": {
       "column": "8",
       "line": "1034",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\FieldValues\\gpioafieldvalues.hpp"
     },
     "members": [],
     "name": "GPIOA_AFRH_AFRH8_Values",
@@ -4159,7 +4159,7 @@
     "location": {
       "column": "9",
       "line": "6",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\fieldvalue.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\fieldvalue.hpp"
     },
     "name": "REGISTERS_FIELDVALUE_HPP",
     "origin": "user_include",
@@ -4173,7 +4173,7 @@
     "location": {
       "column": "8",
       "line": "18",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\fieldvalue.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\fieldvalue.hpp"
     },
     "members": [
       {
@@ -4184,7 +4184,7 @@
         "location": {
           "column": "9",
           "line": "20",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\fieldvalue.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\fieldvalue.hpp"
         },
         "name": "Type",
         "origin": "user_include",
@@ -4198,7 +4198,7 @@
         "location": {
           "column": "25",
           "line": "21",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\fieldvalue.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\fieldvalue.hpp"
         },
         "name": "Mask",
         "origin": "user_include",
@@ -4212,7 +4212,7 @@
         "location": {
           "column": "25",
           "line": "22",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\fieldvalue.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\fieldvalue.hpp"
         },
         "name": "Value",
         "origin": "user_include",
@@ -4226,7 +4226,7 @@
         "location": {
           "column": "25",
           "line": "23",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\fieldvalue.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\fieldvalue.hpp"
         },
         "name": "Offset",
         "origin": "user_include",
@@ -4240,7 +4240,7 @@
         "location": {
           "column": "9",
           "line": "24",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\fieldvalue.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\fieldvalue.hpp"
         },
         "name": "BaseType",
         "origin": "user_include",
@@ -4254,7 +4254,7 @@
         "location": {
           "column": "9",
           "line": "25",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\fieldvalue.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\fieldvalue.hpp"
         },
         "name": "Access",
         "origin": "user_include",
@@ -4863,7 +4863,7 @@
     "location": {
       "column": "9",
       "line": "11",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
     },
     "name": "GPIOAREGISTERS_HPP",
     "origin": "user_include",
@@ -4877,7 +4877,7 @@
     "location": {
       "column": "8",
       "line": "18",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
     },
     "members": [
       {
@@ -4888,7 +4888,7 @@
         "location": {
           "column": "10",
           "line": "20",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "GPIOAMODERBase",
@@ -4903,7 +4903,7 @@
         "location": {
           "column": "10",
           "line": "22",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "MODER",
@@ -4918,7 +4918,7 @@
         "location": {
           "column": "10",
           "line": "46",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "GPIOAOTYPERBase",
@@ -4933,7 +4933,7 @@
         "location": {
           "column": "10",
           "line": "48",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "OTYPER",
@@ -4948,7 +4948,7 @@
         "location": {
           "column": "10",
           "line": "72",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "GPIOAOSPEEDRBase",
@@ -4963,7 +4963,7 @@
         "location": {
           "column": "10",
           "line": "74",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "OSPEEDR",
@@ -4978,7 +4978,7 @@
         "location": {
           "column": "10",
           "line": "98",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "GPIOAPUPDRBase",
@@ -4993,7 +4993,7 @@
         "location": {
           "column": "10",
           "line": "100",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "PUPDR",
@@ -5008,7 +5008,7 @@
         "location": {
           "column": "10",
           "line": "124",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "GPIOAIDRBase",
@@ -5023,7 +5023,7 @@
         "location": {
           "column": "10",
           "line": "126",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "IDR",
@@ -5038,7 +5038,7 @@
         "location": {
           "column": "10",
           "line": "150",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "GPIOAODRBase",
@@ -5053,7 +5053,7 @@
         "location": {
           "column": "10",
           "line": "152",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "ODR",
@@ -5068,7 +5068,7 @@
         "location": {
           "column": "10",
           "line": "176",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "GPIOABSRRBase",
@@ -5083,7 +5083,7 @@
         "location": {
           "column": "10",
           "line": "178",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "BSRR",
@@ -5098,7 +5098,7 @@
         "location": {
           "column": "10",
           "line": "218",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "GPIOALCKRBase",
@@ -5113,7 +5113,7 @@
         "location": {
           "column": "10",
           "line": "220",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "LCKR",
@@ -5128,7 +5128,7 @@
         "location": {
           "column": "10",
           "line": "245",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "GPIOAAFRLBase",
@@ -5143,7 +5143,7 @@
         "location": {
           "column": "10",
           "line": "247",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "AFRL",
@@ -5158,7 +5158,7 @@
         "location": {
           "column": "10",
           "line": "263",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "GPIOAAFRHBase",
@@ -5173,7 +5173,7 @@
         "location": {
           "column": "10",
           "line": "265",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\Registers\\STM32F411\\gpioaregisters.hpp"
         },
         "members": [],
         "name": "AFRH",
@@ -5601,7 +5601,7 @@
     "location": {
       "column": "25",
       "line": "13",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\main.cpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\main.cpp"
     },
     "name": "UartSpeed9600",
     "origin": "project_file",
@@ -5615,7 +5615,7 @@
     "location": {
       "column": "5",
       "line": "18",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\main.cpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\main.cpp"
     },
     "name": "__low_level_init",
     "origin": "project_file",
@@ -5629,7 +5629,7 @@
     "location": {
       "column": "24",
       "line": "51",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\main.cpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\main.cpp"
     },
     "name": "UartSpeed9600",
     "origin": "project_file",
@@ -5642,22 +5642,22 @@
     "display": "int main(void)",
     "location": {
       "column": "5",
-      "line": "71",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\main.cpp"
+      "line": "70",
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\main.cpp"
     },
     "name": "main",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:main.cpp@1582@F@main#@message",
+    "ID": "c:main.cpp@1580@F@main#@message",
     "What": "Variable",
     "defdec": "Def",
     "display": "message",
     "location": {
       "column": "15",
-      "line": "76",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\main.cpp"
+      "line": "75",
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\main.cpp"
     },
     "name": "message",
     "origin": "project_file",
@@ -7016,7 +7016,7 @@
     "location": {
       "column": "7",
       "line": "9",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\USART\\usart.h"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\USART\\usart.h"
     },
     "members": [
       {
@@ -7027,7 +7027,7 @@
         "location": {
           "column": "17",
           "line": "12",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\USART\\usart.h"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\USART\\usart.h"
         },
         "name": "WriteByte",
         "origin": "user_include",
@@ -7041,7 +7041,7 @@
         "location": {
           "column": "15",
           "line": "17",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\USART\\usart.h"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\USART\\usart.h"
         },
         "name": "InterruptHandler",
         "origin": "user_include",
@@ -7055,7 +7055,7 @@
         "location": {
           "column": "15",
           "line": "26",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\USART\\usart.h"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\USART\\usart.h"
         },
         "name": "TransmitEnable",
         "origin": "user_include",
@@ -7069,7 +7069,7 @@
         "location": {
           "column": "15",
           "line": "32",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\USART\\usart.h"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\USART\\usart.h"
         },
         "name": "InterruptEnable",
         "origin": "user_include",
@@ -7083,7 +7083,7 @@
         "location": {
           "column": "15",
           "line": "37",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\USART\\usart.h"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\USART\\usart.h"
         },
         "name": "InterruptDisable",
         "origin": "user_include",
@@ -7097,7 +7097,7 @@
         "location": {
           "column": "15",
           "line": "43",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\USART\\usart.h"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\USART\\usart.h"
         },
         "name": "TransmitDisable",
         "origin": "user_include",
@@ -7116,7 +7116,7 @@
     "location": {
       "column": "7",
       "line": "6",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\USART\\usartconfig.h"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\USART\\usartconfig.h"
     },
     "members": [],
     "name": "Usart2",
@@ -7131,7 +7131,7 @@
     "location": {
       "column": "29",
       "line": "8",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\USART\\usartconfig.h"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\USART\\usartconfig.h"
     },
     "name": "usartDriver",
     "origin": "user_include",
@@ -7145,7 +7145,7 @@
     "location": {
       "column": "7",
       "line": "9",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\AbstractHardware\\USART\\usartconfig.h"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\AbstractHardware\\USART\\usartconfig.h"
     },
     "members": [],
     "name": "Usart2",
@@ -7160,7 +7160,7 @@
     "location": {
       "column": "17",
       "line": "22",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\startupF411RE.cpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\startupF411RE.cpp"
     },
     "name": "__iar_program_start",
     "origin": "project_file",
@@ -7174,7 +7174,7 @@
     "location": {
       "column": "7",
       "line": "27",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\startupF411RE.cpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\startupF411RE.cpp"
     },
     "members": [
       {
@@ -7185,7 +7185,7 @@
         "location": {
           "column": "17",
           "line": "30",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\startupF411RE.cpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\startupF411RE.cpp"
         },
         "name": "handler",
         "origin": "project_file",
@@ -7204,7 +7204,7 @@
     "location": {
       "column": "7",
       "line": "33",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\startupF411RE.cpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\startupF411RE.cpp"
     },
     "name": "tIntFunct",
     "origin": "project_file",
@@ -7218,7 +7218,7 @@
     "location": {
       "column": "7",
       "line": "35",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\startupF411RE.cpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\startupF411RE.cpp"
     },
     "name": "tIntVectItem",
     "origin": "project_file",
@@ -7232,7 +7232,7 @@
     "location": {
       "column": "22",
       "line": "35",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\startupF411RE.cpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\startupF411RE.cpp"
     },
     "members": [
       {
@@ -7243,7 +7243,7 @@
         "location": {
           "column": "39",
           "line": "35",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\startupF411RE.cpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\startupF411RE.cpp"
         },
         "name": "__fun",
         "origin": "project_file",
@@ -7257,7 +7257,7 @@
         "location": {
           "column": "53",
           "line": "35",
-          "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\startupF411RE.cpp"
+          "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\startupF411RE.cpp"
         },
         "name": "__ptr",
         "origin": "project_file",
@@ -7276,7 +7276,7 @@
     "location": {
       "column": "31",
       "line": "48",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\startupF411RE.cpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\startupF411RE.cpp"
     },
     "name": "__vector_table",
     "origin": "project_file",
@@ -7290,7 +7290,7 @@
     "location": {
       "column": "19",
       "line": "156",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\startupF411RE.cpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\startupF411RE.cpp"
     },
     "name": "handler",
     "origin": "project_file",
@@ -7304,7 +7304,7 @@
     "location": {
       "column": "17",
       "line": "158",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\startupF411RE.cpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\startupF411RE.cpp"
     },
     "name": "__cmain",
     "origin": "project_file",
@@ -7318,7 +7318,7 @@
     "location": {
       "column": "24",
       "line": "159",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\startupF411RE.cpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\startupF411RE.cpp"
     },
     "name": "__iar_init_core",
     "origin": "project_file",
@@ -7332,7 +7332,7 @@
     "location": {
       "column": "24",
       "line": "160",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\startupF411RE.cpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\startupF411RE.cpp"
     },
     "name": "__iar_init_vfp",
     "origin": "project_file",
@@ -7346,7 +7346,7 @@
     "location": {
       "column": "6",
       "line": "163",
-      "path": "C:\\Users\\\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\\Desktop\\Lab6\\startupF411RE.cpp"
+      "path": "E:\\Git\\\u041f\u041e\u0418\u041f\\UART2\\USART2\\startupF411RE.cpp"
     },
     "name": "__iar_program_start",
     "origin": "project_file",

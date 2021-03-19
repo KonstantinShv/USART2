@@ -57,8 +57,7 @@ int __low_level_init(void)
 
   
   // TIM2
-  TIM2::PSC::Write(16000) ;
-     
+  TIM2::PSC::Write(16000) ;     
   TIM2::ARR::Write(1000) ;
   TIM2::SR::UIF::NoUpdate::Set();
   TIM2::CNT::Write(0);
